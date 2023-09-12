@@ -90,7 +90,7 @@ Each student is a contributor responsible for updating attendance records, pleas
 
 ## Contact
 
-For any questions, concerns, or updates related to attendance records, please contact Roberto Vallado at roberto.vallado@saultcollege.ca  We value your commitment to maintaining accurate attendance records, which are crucial for the course records and reporting.
+For any questions, concerns, or updates related to attendance records, please contact Roberto Vallado at rvalladopacheco@saultcollege.ca  We value your commitment to maintaining accurate attendance records, which are crucial for the course records and reporting.
 
 Thank you for your dedication to keeping our attendance records up to date!
 
